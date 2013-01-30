@@ -1,0 +1,8 @@
+# build directories
+build*/
+
+# vim temp files
+.*.sw*
+
+# qtcreator generated files
+CMakeLists.txt.user*
